@@ -1,0 +1,680 @@
+{
+  "tvData": [
+    {
+      "id": 1,
+      "brand": "MI",
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/71Ey2FZp4tL._SX569_.jpg",
+        "https://m.media-amazon.com/images/I/81-omUse0SL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71RyR-518ZL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61QKmq7TufL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/616O7fB-n3L._SX679_.jpg"
+      ],
+      "name": "MI 125 cm (50 inches) X Pro 4K Dolby Vision IQ Series Smart Google TV L50M8-5XIN (Black)",
+      "price": [66582.72, 70642.72, 74802.72, 78862.72],
+      "discount": [10.0, 12.0, 15.0, 18.0],
+      "rating": 4.5,
+      "totalRating": 25675,
+      "sizes": [43, 50, 55, 65],
+      "dealOfTheDay": true,
+      "limitedTimeDeal": false,
+      "bestSeller": false,
+      "offers": "Save an extra 15% on exchange.",
+      "seller": "DAWNTECH ELECTRONICS PRIVATE LIMITED",
+      "stock": [2, 1, 0, 2],
+      "onPrime": true
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/71RxCmvnrbL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71kLlbUWbhL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/71ftBSLomVL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/61ssPHyQelL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/616vdmuZhvL._SX522_.jpg"
+      ],
+      "name": "Samsung 80 cm (32 Inches) Wondertainment Series HD Ready LED Smart TV UA32T4340BKXXL (Glossy Black)",
+      "price": [124819.72, 128775.72, 132731.72, 136687.72],
+      "discount": [20.0, 22.0, 25.0, 28.0],
+      "rating": 4.8,
+      "totalRating": 15294,
+      "sizes": [32, 45, 65, 75],
+      "dealOfTheDay": false,
+      "limitedTimeDeal": true,
+      "bestSeller": true,
+      "offers": "Flat ₹3000 off with code TVSALE3000.",
+      "seller": "Cocoblu Retail",
+      "stock": [1, 0, 2, 1],
+      "onPrime": true
+    },
+    {
+      "id": 3,
+      "brand": "Sony",
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/91VqThRTxoL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/81Bl0hdw5xL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/919-g9CeBRL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/81W2EgEC47L._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/81q-aq2scRL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/81q-aq2scRL._SX522_.jpg"
+      ],
+      "name": "Sony Bravia 139 cm (55 inches) 4K Ultra HD Smart LED Google TV KD-55X74K (Black)",
+      "price": [45732.72, 48259.92, 50787.12, 53314.32],
+      "discount": [15.0, 18.0, 20.0, 22.0],
+      "rating": 4.2,
+      "totalRating": 25675,
+      "sizes": [42, 50, 55, 60],
+      "dealOfTheDay": true,
+      "limitedTimeDeal": false,
+      "bestSeller": false,
+      "offers": "Buy 2 and get 10% off.",
+      "seller": "ElectroTech",
+      "stock": [0, 1, 2, 1],
+      "onPrime": true
+    },
+    {
+      "id": 4,
+      "brand": "LG",
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/71VHchc4T4L._AC_UY327_FMwebp_QL65_.jpg",
+        "https://m.media-amazon.com/images/I/41Cgpm5XDdL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/31HlwcGEAeL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/41tWhubNO5L._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/41bUQP0GaHL._SX522_.jpg"
+      ],
+      "name": "LG 177 cm (70 Inches) 4K UHD Smart LED TV WebOS Active HDR (70UR8040PSB_Black,2023)",
+      "price": [149742.72, 154010.72, 158278.72, 162546.72],
+      "discount": [12.0, 14.0, 16.0, 18.0],
+      "rating": 3.7,
+      "totalRating": 11764,
+      "sizes": [60, 65, 70, 75],
+      "dealOfTheDay": false,
+      "limitedTimeDeal": false,
+      "bestSeller": false,
+      "offers": "Save ₹1500 on installation fees.",
+      "seller": "TechZone Direct",
+      "stock": [2, 0, 1, 2],
+      "onPrime": true
+    },
+    {
+      "id": 5,
+      "brand": "Acer",
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/71kQUbJU9cL._AC_UY327_FMwebp_QL65_.jpg",
+        "https://m.media-amazon.com/images/I/71hFO8Z0tgL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/51wvDvSktkL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/517aQnAP9tL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/61Qvx3VsQEL._SX522_.jpg"
+      ],
+      "name": "Acer 139 cm (55 inches) Advanced I Series 4K Ultra HD Smart LED Google TV AR55GR2851UDFL (Black)",
+      "price": [74802.72, 76334.88, 77867.04, 79400.2],
+      "discount": [8.0, 10.0, 12.0, 14.0],
+      "rating": 4.4,
+      "totalRating": 25675,
+      "sizes": [50, 55, 60, 65],
+      "dealOfTheDay": true,
+      "limitedTimeDeal": false,
+      "bestSeller": false,
+      "offers": "Get a ₹5000 gift card on purchase.",
+      "seller": "ElectroTech",
+      "stock": [2, 2, 2, 2],
+      "onPrime": true
+    },
+    {
+      "id": 6,
+      "brand": "iFFALCON",
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/71ysH6xy6xL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/71kKc8J3UlL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/71jYD5D6MLL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/61IJbcqsSDL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/51xvk19yXaL._SX522_.jpg"
+      ],
+      "name": "iFFALCON 80.04 cm (32 inches) Bezel-Less S Series HD Ready Smart Android LED TV iFF32S53 (Black)",
+      "price": [190997.92, 195357.12, 199716.32, 204075.52],
+      "discount": [15.0, 18.0, 20.0, 22.0],
+      "rating": 4.9,
+      "totalRating": 11764,
+      "sizes": [75, 80, 85, 90],
+      "dealOfTheDay": false,
+      "limitedTimeDeal": true,
+      "offers": "Buy with a home theater system and save ₹10,000.",
+      "bestSeller": true,
+      "seller": "Cocoblu Retail",
+      "stock": [2, 1, 2, 0],
+      "onPrime": false
+    },
+    {
+      "id": 7,
+      "brand": "TCL",
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/71tclO9I-rL._AC_UY327_FMwebp_QL65_.jpg",
+        "https://m.media-amazon.com/images/I/71lYtE5dpBL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/816KVw2p6nL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/61IJbcqsSDL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/51QFd1h0BoL._SX522_.jpg"
+      ],
+      "name": "TCL 101 cm (40 inches) Bezel-Less S Series Full HD Smart Android LED TV 40S5400A (Black)",
+      "price": [116546.72, 120236.72, 123926.72, 127616.72],
+      "discount": [10.0, 12.0, 15.0, 18.0],
+      "rating": 4.6,
+      "totalRating": 25675,
+      "sizes": [23, 32, 40, 42],
+      "dealOfTheDay": false,
+      "limitedTimeDeal": false,
+      "bestSeller": false,
+      "offers": "Pay in easy monthly installments.",
+      "seller": "TechZone Direct",
+      "stock": [1, 1, 2, 0],
+      "onPrime": true
+    },
+    {
+      "id": 8,
+      "brand": "OnePlus",
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/819SRH2DKBL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/71tp5ExD2HL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/71h-xXdBTZL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/61QXH2faa3L._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/715SQPXi28L._SX522_.jpg"
+      ],
+      "name": "OnePlus 108 cm (43 inches) Y Series 4K Ultra HD Smart Android LED TV 43Y1S Pro (Black)",
+      "price": [49958.72, 51497.92, 53037.12, 54576.32],
+      "discount": [5.0, 7.0, 9.0, 11.0],
+      "rating": 4.3,
+      "totalRating": 11764,
+      "sizes": [43, 50, 55, 60],
+      "dealOfTheDay": true,
+      "limitedTimeDeal": false,
+      "bestSeller": false,
+      "offers": "10% cashback on HDFC Bank credit cards.",
+      "seller": "ElectroTech",
+      "stock": [2, 1, 0, 1],
+      "onPrime": false
+    },
+    {
+      "id": 9,
+      "brand": "Redmi",
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/71S1CVKFrfL._AC_UY327_FMwebp_QL65_.jpg",
+        "https://m.media-amazon.com/images/I/811yOe5UyfL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/71QvOYXZMYL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/61sWC8AWzqL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/81RKP4uCAhL._SX522_.jpg"
+      ],
+      "name": "Redmi 108 cm (43 inches) 4K Android Smart LED TV X43 with Dolby Vision & 30W Dolby Audio (Black) (2022 Model)",
+      "price": [166376.72, 170726.72, 175076.72, 179426.72],
+      "discount": [18.0, 20.0, 22.0, 24.0],
+      "rating": 4.7,
+      "totalRating": 25675,
+      "sizes": [70, 75, 80, 85],
+      "dealOfTheDay": false,
+      "limitedTimeDeal": true,
+      "bestSeller": false,
+      "offers": "Free wall mount and installation.",
+      "seller": "Cocoblu Retail",
+      "stock": [0, 0, 1, 2],
+      "onPrime": true
+    },
+    {
+      "id": 10,
+      "brand": "Trusense",
+      "imageUrls": [
+        "https://m.media-amazon.com/images/I/61LZ-T0vQpL._AC_UY327_QL65_.jpg",
+        "https://m.media-amazon.com/images/I/61wNQ-cYk+L._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/615h9Ii-mGL._SX522_.jpg",
+        "https://m.media-amazon.com/images/I/51bjmHqUlbL._SX522_.jpg"
+      ],
+      "name": "TRUSENSE 218 cm (86 Inch) TS 8600 | 4K Ultra HD Smart TV with Web OS | Bezel-Less LED | TruLED (Black)",
+      "price": [41574.72, 43136.64, 44700.72, 46262.64],
+      "discount": [12.0, 14.0, 16.0, 18.0],
+      "rating": 4.4,
+      "totalRating": 11764,
+      "sizes": [49, 55, 60, 65],
+      "dealOfTheDay": true,
+      "limitedTimeDeal": false,
+      "bestSeller": true,
+      "offers": "Exchange your old TV and get up to ₹20,000 off.",
+      "seller": "ElectroTech",
+      "stock": [1, 1, 0, 0],
+      "onPrime": false
+    }
+  ],
+  "mobileData": [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "name": "Apple iPhone 15 Pro Max",
+      "longName": "",
+      "price": [159000.0, 179000.0, 199000.0],
+      "discount": [10.0, 12.0, 15.0],
+      "rating": 4.2,
+      "color": [
+        "Black Titanium",
+        "Blue Titanium",
+        "Natural Titanium",
+        "White Titanium"
+      ],
+      "imageUrls": {
+        "Black Titanium": [
+          "https://m.media-amazon.com/images/I/81Os1SDWpcL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/51UtwJ0576L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71lmRVkniLL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71TSx9D2BVL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81MDZsYTIoL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61lfdF60sRL._SX679_.jpg"
+        ],
+        "Blue Titanium": [
+          "https://m.media-amazon.com/images/I/81fxjeu8fdL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61HZS-ZSCLL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71kGvmn-t8L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71TSx9D2BVL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81MDZsYTIoL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61uDGZFoleL._SX679_.jpg"
+        ],
+        "Natural Titanium": [
+          "https://m.media-amazon.com/images/I/81dT7CUY6GL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61Jrsu9d3-L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/715zWp1q7rL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71TSx9D2BVL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81MDZsYTIoL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/616Uc0aFwaL._SX679_.jpg"
+        ],
+        "White Titanium": [
+          "https://m.media-amazon.com/images/I/81c50PU+lpL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/51hWMvjCV8L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71LB1euow1L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71TSx9D2BVL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81MDZsYTIoL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61wo713oiuL._SX679_.jpg"
+        ]
+      },
+      "totalRating": 31,
+      "sizes": ["256GB", "512GB", "1TB"],
+      "filterList": ["8+256GB", "8+512GB", "8+1TB"],
+      "dealOfTheDay": true,
+      "limitedTimeDeal": false,
+      "bestSeller": true,
+      "offers": "Get up to ₹30000 cashback on exchange.",
+      "seller": "Appario Retail Private Ltd",
+      "stock": [2, 1, 2],
+      "onPrime": false
+    },
+    {
+      "id": 2,
+      "brand": "Oppo",
+      "name": "OPPO Reno10 Pro+ 5G",
+      "longName": "",
+      "price": [59999.0],
+      "discount": [10.0],
+      "rating": 4.5,
+      "color": ["Glossy Purple", "Silvery Grey"],
+      "imageUrls": {
+        "Glossy Purple": [
+          "https://opsg-img-cdn-gl.heytapimg.com/epb/202306/20/LPzj8NBgopGTKQp9.png?x-amz-process=image/format,webp/quality,Q_80",
+          "https://opsg-img-cdn-gl.heytapimg.com/epb/202306/20/sNqEJMnt6kqLN5Nx.png?x-amz-process=image/format,webp/quality,Q_80",
+          "https://opsg-img-cdn-gl.heytapimg.com/epb/202306/20/9TNjk9w4q5sRsIBu.png?x-amz-process=image/format,webp/quality,Q_80",
+          "https://opsg-img-cdn-gl.heytapimg.com/epb/202306/20/BIuymraVzUUG40IM.png?x-amz-process=image/format,webp/quality,Q_80"
+        ],
+        "Silvery Grey": [
+          "https://opsg-img-cdn-gl.heytapimg.com/epb/202306/20/yZ0pLLJ9WYu0J543.png?x-amz-process=image/format,webp/quality,Q_80",
+          "https://opsg-img-cdn-gl.heytapimg.com/epb/202306/20/jTbx1Go6ZZWIzRDe.png?x-amz-process=image/format,webp/quality,Q_80",
+          "https://opsg-img-cdn-gl.heytapimg.com/epb/202306/20/O38QnnuqUDuT7TFX.png?x-amz-process=image/format,webp/quality,Q_80",
+          "https://opsg-img-cdn-gl.heytapimg.com/epb/202306/20/iTFW6kcNqtqzYB6u.png?x-amz-process=image/format,webp/quality,Q_80"
+        ]
+      },
+      "totalRating": 1056,
+      "sizes": ["12GB + 256GB"],
+      "filterList": ["12+256GB"],
+      "dealOfTheDay": false,
+      "limitedTimeDeal": true,
+      "bestSeller": false,
+      "offers": "Flat 15% off on HDFC Bank credit cards.",
+      "seller": "Appario Retail Private Ltd",
+      "stock": [2],
+      "onPrime": false
+    },
+    {
+      "id": 3,
+      "brand": "Motorola",
+      "name": "Motorola razr 40 Ultra",
+      "longName": "| 3.6\" External AMOLED Display | 6.9\" AMOLED 165Hz Display | 32MP Selfie Camera |30W TurboPower Charging | Android 13",
+      "price": [119999.0],
+      "discount": [33.0],
+      "rating": 3.8,
+      "color": ["Viva Magenta", "Infinite Black", "Glacier Blue"],
+      "imageUrls": {
+        "Viva Magenta": [
+          "https://m.media-amazon.com/images/I/617WN7I3E4L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61aNOD9bXLL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61ZYM5QLktL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61ze2rKuuoL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61Ko57ceUkL._SX679_.jpg"
+        ],
+        "Infinite Black": [
+          "https://m.media-amazon.com/images/I/617D7U0bJ-L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61OYH9vPuDL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61ZYM5QLktL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61ze2rKuuoL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61N257E-o3L._SX679_.jpg"
+        ],
+        "Glacier Blue": [
+          "https://m.media-amazon.com/images/I/61Of9aBQPVL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/612Sdg5imtL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61HwkOMfqJL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61ze2rKuuoL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61udMeolZCL._SX679_.jpg"
+        ]
+      },
+      "totalRating": 597,
+      "sizes": ["8GB + 256GB"],
+      "filterList": ["8+256GB"],
+      "dealOfTheDay": true,
+      "limitedTimeDeal": false,
+      "bestSeller": false,
+      "offers": "Exchange your old phone and save up to ₹15,000.",
+      "seller": "Darshita Electronics",
+      "stock": [2],
+      "onPrime": true
+    },
+    {
+      "id": 4,
+      "brand": "OnePlus",
+      "name": "OnePlus 11 5G",
+      "longName": "",
+      "price": [59999.0, 64999.0],
+      "discount": [10.0, 12.0],
+      "rating": 4.3,
+      "color": ["Eternal Green", "Titan Black", "Marble Odyssey"],
+      "imageUrls": {
+        "Eternal Green": [
+          "https://m.media-amazon.com/images/I/61amb0CfMGL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71Mgi5phPNL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71xkydpRWkL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/51tKzI3G0zL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/51QVJveu+-L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/51pJKV6eUhL._SX679_.jpg"
+        ],
+        "Titan Black": [
+          "https://m.media-amazon.com/images/I/71K84j2O8wL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71Mgi5phPNL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71xkydpRWkL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/511SqWlN9QL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61eVBLvZiVL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/5177-9i1x4L._SX679_.jpg"
+        ],
+        "Marble Odyssey": [
+          "https://m.media-amazon.com/images/I/61FNhJovamL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71JM+tWvJNL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71xkydpRWkL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/51vZR3-QkhL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61FgDainvfL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/51Dr+A4xFjL._SX679_.jpg"
+        ]
+      },
+      "totalRating": 2654,
+      "sizes": ["8GB + 256GB", "16GB + 256GB"],
+      "filterList": ["8+256GB", "16+256GB"],
+      "dealOfTheDay": false,
+      "limitedTimeDeal": true,
+      "bestSeller": true,
+      "offers": "Get a free wireless charger worth ₹999.",
+      "seller": "Rocket Kommerce LLP",
+      "stock": [2, 2],
+      "onPrime": true
+    },
+    {
+      "id": 5,
+      "brand": "Samsung",
+      "name": "Samsung Galaxy S23 Ultra 5G",
+      "longName": "",
+      "price": [149999.0, 161999.0],
+      "discount": [19.0, 17.0],
+      "rating": 4.3,
+      "color": ["Cream", "Green", "Phantom Black"],
+      "imageUrls": {
+        "Cream": [
+          "https://m.media-amazon.com/images/I/61j99uUfXNL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/619a10rxwEL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71Q7QmC1X1L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61DRYp5qoeL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71nu6ZWKBWL._SX679_.jpg"
+        ],
+        "Green": [
+          "https://m.media-amazon.com/images/I/61VfL-aiToL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61WZtv4Xy-L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71Q7QmC1X1L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61k2ydckuLL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71nu6ZWKBWL._SX679_.jpg"
+        ],
+        "Phantom Black": [
+          "https://m.media-amazon.com/images/I/61imYpK33qL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61WI9sxW7gL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71Q7QmC1X1L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/618zYbpweBL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71nu6ZWKBWL._SX679_.jpg"
+        ]
+      },
+      "totalRating": 1342,
+      "sizes": ["12GB + 256GB", "12GB + 512GB"],
+      "filterList": ["12+256GB", "12+512GB"],
+      "dealOfTheDay": true,
+      "limitedTimeDeal": false,
+      "bestSeller": false,
+      "offers": "Pay in easy monthly installments.",
+      "seller": "Rocket Kommerce LLP",
+      "stock": [2, 2],
+      "onPrime": true
+    },
+    {
+      "id": 6,
+      "brand": "Nothing",
+      "name": "Nothing Phone (2) 5G",
+      "longName": "| 6.7 In LTPO OLED AMOLED Display | 50 MP(OIS)+50MP | 32MP Front Camera | Qualcomm Snapdragon 8+Gen 1 | 4700mAh Battery 45W:100% in 55 Minutes",
+      "price": [54999.0, 59999.0],
+      "discount": [24.0, 25.0],
+      "rating": 3.6,
+      "color": ["Dark Grey", "White"],
+      "imageUrls": {
+        "Dark Grey": [
+          "https://m.media-amazon.com/images/I/713rQyFyeXL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71uzoFe6S+L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/619K8viUzNL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61k0J5wZiBL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/614DHO5sy7L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61Dk0cKhwSL._SX679_.jpg"
+        ],
+        "White": [
+          "https://m.media-amazon.com/images/I/71YoqE7ZJrL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61kY2JbEBmL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61ku+Y+5joL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61u9JdksOPL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61xzKqT7BML._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61coNmO-wRL._SX679_.jpg"
+        ]
+      },
+      "totalRating": 65,
+      "sizes": ["12GB + 256GB", "12GB + 512GB"],
+      "filterList": ["12+256GB", "12+512GB"],
+      "dealOfTheDay": false,
+      "limitedTimeDeal": true,
+      "bestSeller": false,
+      "offers": "Limited-time offer: ₹2000 discount.",
+      "seller": "Bharose ki Dukaan",
+      "stock": [2, 2],
+      "onPrime": true
+    },
+    {
+      "id": 7,
+      "brand": "Xiomi",
+      "name": "Xiaomi 12 Pro 5G",
+      "longName": "",
+      "price": [84999.0],
+      "discount": [41.0],
+      "rating": 4.2,
+      "color": ["Opera Mauve", "Noir Black", "Couture Blue"],
+      "imageUrls": {
+        "Opera Mauve": [
+          "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/v/c/x/-original-imagqmtffg9sjjp6.jpeg?q=70",
+          "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/u/m/w/-original-imagqmtfv5vgruhw.jpeg?q=70",
+          "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/l/p/t/-original-imagqmtfzccqwxpz.jpeg?q=70",
+          "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/u/2/4/-original-imagqmtfaxawvgvp.jpeg?q=70",
+          "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/z/x/r/-original-imagqmtfjezaa6yu.jpeg?q=70",
+          "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/p/e/l/-original-imagqmtfgqbrzszg.jpeg?q=70"
+        ],
+        "Noir Black": [
+          "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/7/y/u/-original-imagqmtfu8gt62yv.jpeg?q=70",
+          "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/a/e/r/-original-imagqmtfjmqhpnw5.jpeg?q=70",
+          "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/5/3/r/-original-imagqmtfgnwnnc2p.jpeg?q=70",
+          "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/r/k/g/-original-imagqmtf6hbtkqky.jpeg?q=70",
+          "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/g/c/w/-original-imagqmtfktap8yv5.jpeg?q=70",
+          "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/w/9/d/-original-imagqmtfmdnxhcfh.jpeg?q=70"
+        ],
+        "Couture Blue": [
+          "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/7/l/8/-original-imagqmtfgq7e4edm.jpeg?q=70",
+          "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/y/k/q/-original-imagqmtfj5awgef6.jpeg?q=70",
+          "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/c/b/3/-original-imagqmtffuazwrwa.jpeg?q=70",
+          "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/6/v/k/-original-imagqmtfs8gtauh9.jpeg?q=70",
+          "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/g/u/y/-original-imagqmtfygtrg98g.jpeg?q=70",
+          "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/k/s/z/-original-imagqmtfjqf4kgfm.jpeg?q=70"
+        ]
+      },
+      "totalRating": 5427,
+      "sizes": ["12GB + 256GB"],
+      "filterList": ["12+256GB"],
+      "dealOfTheDay": true,
+      "limitedTimeDeal": false,
+      "bestSeller": true,
+      "offers": "Get Spotify Premium - 12M at ₹699",
+      "seller": "Akshnav Online",
+      "stock": [2, 2],
+      "onPrime": false
+    },
+    {
+      "id": 8,
+      "brand": "iQOO",
+      "name": "iQOO Neo 7 Pro 5G",
+      "longName": "| Snapdragon® 8+ Gen 1 | Independent Gaming Chip | Flagship 50MP OIS Camera | Premium Leather Design",
+      "price": [39999.0, 42999.0],
+      "discount": [18.0, 16.0],
+      "rating": 4.2,
+      "color": ["Fearless Flame", "Dark Storm"],
+      "imageUrls": {
+        "Fearless Flame": [
+          "https://m.media-amazon.com/images/I/712pLRfzDYL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61QNUqiJm4L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61KJ-+gxtSL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71Y+bGZFAzL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71V90gDSFHL._SX679_.jpg"
+        ],
+        "Dark Storm": [
+          "https://m.media-amazon.com/images/I/611rQWZa5rL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61QNUqiJm4L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61WNgpzQ3CL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71Y+bGZFAzL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71V90gDSFHL._SX679_.jpg"
+        ]
+      },
+      "totalRating": 1912,
+      "sizes": ["8GB + 128GB", "12GB + 256GB"],
+      "filterList": ["8+128GB", "12+256GB"],
+      "dealOfTheDay": false,
+      "limitedTimeDeal": true,
+      "bestSeller": false,
+      "offers": "Get GST invoice and save up to 28% on business purchases.",
+      "seller": "Clicktech Retail",
+      "stock": [2, 2],
+      "onPrime": true
+    },
+    {
+      "id": 9,
+      "brand": "Samsung",
+      "name": "Samsung Galaxy Z Flip5 5G",
+      "longName": "",
+      "price": [102999.0, 113999],
+      "discount": [3.0, 4.0],
+      "rating": 4.0,
+      "color": ["Graphite", "Mint", "Lavender"],
+      "imageUrls": {
+        "Graphite": [
+          "https://m.media-amazon.com/images/I/71U+YdsvMPL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/614GLZ7wkyL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71r3TSst5ZL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71hilJccpHL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61Uq6ATwPDL._SX679_.jpg"
+        ],
+        "Mint": [
+          "https://m.media-amazon.com/images/I/61Tl1z+Hn0L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/614GLZ7wkyL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71r3TSst5ZL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71hilJccpHL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61Uq6ATwPDL._SX679_.jpg"
+        ],
+        "Lavender": [
+          "https://m.media-amazon.com/images/I/716CAI7WX1L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/614GLZ7wkyL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71r3TSst5ZL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71hilJccpHL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61Uq6ATwPDL._SX679_.jpg"
+        ]
+      },
+      "totalRating": 137,
+      "sizes": ["8GB + 256GB", "8GB + 512GB"],
+      "filterList": ["8+128GB", "8+256GB"],
+      "dealOfTheDay": false,
+      "limitedTimeDeal": false,
+      "bestSeller": false,
+      "offers": "No Cost EMI available on Amazon Pay Later.",
+      "seller": "Appario Retail Private Ltd",
+      "stock": [2, 2],
+      "onPrime": true
+    },
+    {
+      "id": 10,
+      "brand": "realme",
+      "name": "realme 11 Pro+ 5G",
+      "longName": "| 120 Hz Curved Display | 200MP ProLight Camera | 7050 5G Dimensity | 100W SUPERVOOC | 12GB Dynamic RAM | Premier Vegan Leather Finish Design",
+      "price": [28999.0, 32999.0],
+      "discount": [12.0, 11.0],
+      "rating": 3.9,
+      "color": ["Oasis Green", "Sunrise Beige", "Astral Black"],
+      "imageUrls": {
+        "Oasis Green": [
+          "https://m.media-amazon.com/images/I/81TeaKroXqL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81Ixl2B13cL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81QzOlYvhmL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/8144SseUHtL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81BukrZ7GYL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81W9SR6EBPL._SX679_.jpg"
+        ],
+        "Sunrise Beige": [
+          "https://m.media-amazon.com/images/I/81w+d9xmHJL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81kxKdELzBL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81K6biD3rML._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/8144SseUHtL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81BukrZ7GYL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81Eb5nGOBdL._SX679_.jpg"
+        ],
+        "Astral Black": [
+          "https://m.media-amazon.com/images/I/8160MA2YS5L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81ZLB-A0ljL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81WZQjr1lYL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/8144SseUHtL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81BukrZ7GYL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81Z1d-oAP9L._SX679_.jpg"
+        ]
+      },
+      "totalRating": 266,
+      "sizes": ["8GB + 256GB", "12GB + 256GB"],
+      "filterList": ["8+256GB", "12+256GB"],
+      "dealOfTheDay": false,
+      "limitedTimeDeal": true,
+      "bestSeller": true,
+      "offers": "10% Instant Discount up to ₹750 on ICICI Bank Credit Card Non-EMI Trxn.",
+      "seller": "Appario Retail Private Ltd",
+      "stock": [2, 2],
+      "onPrime": true
+    }
+  ]
+}

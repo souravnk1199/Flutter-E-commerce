@@ -1,4 +1,4 @@
-# tv_catalog_provider
+# Flutter Amazon Clone
 
 A new Flutter project.
 
